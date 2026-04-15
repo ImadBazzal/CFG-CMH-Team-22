@@ -66,8 +66,8 @@ You should see output like:
 ### Step 4: Test Login
 
 Try logging in with:
-- **Admin**: `admin@demo.com` / `admin123`
-- **Institution**: `school@demo.com` / `school123`
+- **Admin**: `admin@demo.com` / `admin123456`
+- **Institution**: `institution@demo.com` / `institution123456`
 
 ---
 
